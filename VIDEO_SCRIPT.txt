@@ -1,0 +1,13 @@
+VIDEO EXPLANATION SCRIPT (about 60–90 seconds)
+
+Hello everyone. I am completing Task 1, Hangman Game, as part of my Python Programming Internship at CodeAlpha.
+
+This is a simple console-based word guessing game. The program randomly selects one word from a list of five predefined words. The player enters one letter at a time and gets a maximum of six incorrect guesses.
+
+I used Python's random module to select the word, a list to store the available words, a set to track guessed letters, and a while loop to keep the game running. Conditional statements check whether the guessed letter is correct. I also added input validation so the player must enter exactly one alphabetic character, and repeated guesses are not counted.
+
+Now I will demonstrate the game. [Run the program and make a few correct and incorrect guesses.]
+
+This project helped me practise Python basics such as loops, conditions, strings, collections, functions, and user input.
+
+Thank you to CodeAlpha for this learning opportunity. The source code is available in my GitHub repository: [paste your repository link].

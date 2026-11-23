@@ -1,0 +1,16 @@
+Happy to share that I have completed Task 1 — Hangman Game — as part of my Python Programming Internship at CodeAlpha.
+
+I built a simple command-line Hangman game in Python. It selects a random word from a predefined list and allows the player up to six incorrect guesses.
+
+Through this project, I practised:
+• Python functions and loops
+• Conditional statements
+• Strings, lists, and sets
+• Random word selection
+• Input validation
+
+GitHub repository: [PASTE YOUR REPOSITORY LINK]
+
+Thank you @CodeAlpha for the opportunity to learn and apply Python programming concepts.
+
+#CodeAlpha #PythonProgramming #PythonInternship #LearningByDoing #Programming

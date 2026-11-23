@@ -1,0 +1,14 @@
+CODEALPHA PYTHON INTERNSHIP — TASK 1
+Project: Hangman Game
+
+Submission checklist
+[ ] Run `python hangman.py` and test a winning game.
+[ ] Test six incorrect guesses and confirm that the game ends.
+[ ] Test invalid input (number, symbol, and multiple letters).
+[ ] Capture a screenshot of a successful run and save it in `screenshots/`.
+[ ] Create a public GitHub repository named `CodeAlpha_HangmanGame`.
+[ ] Upload `hangman.py`, `README.md`, and the screenshot.
+[ ] Post the project explanation video on LinkedIn with the repository link.
+[ ] Submit the repository/video details through the official CodeAlpha submission form.
+
+Important: Do not claim the project has been submitted until you have completed the steps above.
